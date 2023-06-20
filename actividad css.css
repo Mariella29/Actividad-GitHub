@@ -1,0 +1,36 @@
+body {
+
+background-color: #93d9f2;
+<
+}
+
+
+.flex-container {
+
+border: 1px solid #f7ffe2;
+background: #f4ffb9;
+padding: 5px;
+display: flex;
+flex-flow: row wrap;
+justify-content: center;
+align-content: center;
+width: 90%;
+height: 400px;
+margin: 0 auto;
+}
+
+
+.caja {
+
+border: 1 px solid #ccc;
+background-color: white;
+color: black;
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+width: 320px;
+height: 320px;
+line-height: 120px;
+text-align: center;
+margin: 55px;
+
+}
